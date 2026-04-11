@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👨‍💻 Hello, I'm Abdullah!
 
-<!--
-**abdullah-saad-dev/abdullah-saad-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my portfolio! I am a passionate first-year Computer Science student at the **German International University (GIU)** in Cairo. My primary focus is to build robust basics.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently pursuing a Bachelor of Science in Computer Science at GIU.
+- 💡 Deeply interested in Object-Oriented Programming (OOP), Software Architecture, and Back-end developing.
+
+## 🛠️ My Tech Stack
+
+| Languages      | Tools & Frameworks | Concepts           | Spoken Languages    |
+| -------------- | ------------------ | ------------------ | ------------------- |
+| Java ☕        | Git 🔧, GitHub     | OOP 🏗️, DSA 🧠    | Arabic 🇪🇬 (Native)   |
+| Python 🐍      | JUnit ✅           |                    | English 🇬🇧 (Fluent)  |
+| C/C++ (Basic)  | Jupyter, NumPy 📈 |                       | German 🇩🇪 (A1)     |
+
+## 📂 Featured Projects
+
+Check out the code I’ve been building. These projects are detailed in my professional CV:
+
+### ♟️ [DooR DasH – Strategy Game](https://github.com/[abdullah-saad-dev]/)
+A modular, event-driven strategy board game inspired by *Monsters Inc.* Built in Java and JavaFX, emphasizing polymorphism and encapsulation.
+
+### 📉 [PCA Implementation from Scratch](https://github.com/[abdullah-saad-dev]/)
+A Machine Learning project using Python to implement a Principal Component Analysis (PCA) algorithm from scratch to perform dimensionality reduction on data. Key math: power iteration, covariance matrices.
+
+### 📊 [CLI Expense Tracker](https://github.com/abdullah-saad-dev]/)
+A robust command-line application for personal finance management, applying core Java OOP principles and reliable data storage.
+
+---
+
+## 📫 Let's Connect!
+
+- Connect with me on (https://www.linkedin.com/in/abdullah-saad-7a2a5b256/)
+- You can also reach me via email at abdullah.m.saad@outlook.com
+
+---
