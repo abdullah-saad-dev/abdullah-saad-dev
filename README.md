@@ -19,7 +19,7 @@ Welcome to my portfolio! I am a passionate first-year Computer Science student a
 
 Check out the code I’ve been building. These projects are detailed in my professional CV:
 
-### ♟️ [DooR DasH – Strategy Game](https://github.com/MohamedShadd/3MA-K))
+### ♟️ [DooR DasH – Strategy Game](https://github.com/MohamedShadd/3MA-K)
 A modular, event-driven strategy board game inspired by *Monsters Inc.* Built in Java and JavaFX, emphasizing polymorphism and encapsulation.
 
 ### 📉 [PCA Implementation from Scratch](https://github.com/[abdullah-saad-dev]/)
