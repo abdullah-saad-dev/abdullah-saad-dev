@@ -22,11 +22,11 @@ Check out the code I’ve been building. These projects are detailed in my profe
 ### ♟️ [DooR DasH – Strategy Game](https://github.com/MohamedShadd/3MA-K)
 A modular, event-driven strategy board game inspired by *Monsters Inc.* Built in Java and JavaFX, emphasizing polymorphism and encapsulation.
 
+### 📊 [CLI Expense Tracker](https://github.com/abdullah-saad-dev/Expense-Tracker-CLI)
+A robust command-line application for personal finance management, applying core Java OOP principles and reliable data storage.
+
 ### 📉 [PCA Implementation from Scratch](https://github.com/abdullah-saad-dev/Expense-Tracker-CLI)
 A Machine Learning project using Python to implement a Principal Component Analysis (PCA) algorithm from scratch to perform dimensionality reduction on data. Key math: power iteration, covariance matrices.
-
-### 📊 [CLI Expense Tracker](https://github.com/abdullah-saad-dev]/)
-A robust command-line application for personal finance management, applying core Java OOP principles and reliable data storage.
 
 ---
 
